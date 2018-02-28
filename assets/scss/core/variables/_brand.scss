@@ -1,7 +1,13 @@
+$cerulean-blue: #2969b0;
+$ocean-green: #429a6d;
+$bleached-cedar: #1d131e;
+$copper: #bf8a35;
+$pomegranate: #f44336;
+
 // Bootstrap brand color customization
-$brand-primary: $purple !default;
-$brand-success: $green !default;
-$brand-danger: $red !default;
-$brand-warning: $orange !default;
-$brand-info: $cyan !default;
+$brand-primary: $cerulean-blue !default;
+$brand-success: $ocean-green !default;
+$brand-danger: $pomegranate !default;
+$brand-warning: $copper !default;
+$brand-info: $bleached-cedar !default;
 $brand-rose: $pink !default;
